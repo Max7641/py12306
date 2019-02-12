@@ -157,7 +157,7 @@ docker-compose up -d
 - 感谢大佬 [testerSunshine](https://github.com/testerSunshine/12306)，借鉴了部分实现
 - 感谢所有提供 pr 的大佬 
 
-## License
+## Licensea
 
 [Apache License.](https://github.com/pjialin/py12306/blob/master/LICENSE)
 
